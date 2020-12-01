@@ -13,10 +13,10 @@ Jupyter can also be installed separately from its website.
 The Jupyter Notebook App can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu or by typing 'Jupyter Notebook' in a terminal.
 ### How do run/save this jupyter notebook
 - First click on Raw.
-- Then, press ctrl+s to save it as tasks2020.ipynb (files from GitHub are saved as text files as default, so you'll have to manually type '. ipynb' after the file name to make this work.)
+- Then, press ctrl+s to save it as project2020.ipynb (files from GitHub are saved as text files as default, so you'll have to manually type '. ipynb' after the file name to make this work.)
 - Open CMDER and type in Jupyter Notebook
 - Jupyter notebook should appear in your browser 
-- Go to the file location where you saved the tasks2020.ipynb
+- Go to the file location where you saved the project2020.ipynb
 - Open file.
 -[Jupyter beginners Guide](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 
