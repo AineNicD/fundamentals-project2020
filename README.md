@@ -1,7 +1,7 @@
 # fundamentals-project2020
 My GMIT Fundamentals of Data Analysis project
 
-This repository contains a project in a jupyter notebook given in the Fundementals of Data Analysis module in Gmit HDip data analytics. 
+This repository contains a project in a jupyter notebook given in the Fundementals of Data Analysis module in GMIT HDip data analytics. 
 ### project2020: [project2020.ipynb](https://github.com/AineNicD/fundamentals-project2020/blob/main/project2020.ipynb)
 
 ### [Jupyter Notebook](https://jupyter.org/)
